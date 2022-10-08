@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     #  - uses: anmol098/waka-readme-stats@master
-    #     COMMIT_BY_ME: true
       - uses: athul/waka-readme@v0.1.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
