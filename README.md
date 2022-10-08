@@ -81,13 +81,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2022 - 14 September, 2022
+Week: 30 September, 2022 - 07 October, 2022
 
-Python       16 hrs 50 mins  █████████████████░░░░░░░░   67.84 % 
-JavaScript   5 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
-Markdown     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Text         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-SQL          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JavaScript   15 hrs 51 mins  █████████████████████▒░░░   85.61 % 
+Python       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JSON         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
