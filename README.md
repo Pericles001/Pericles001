@@ -81,7 +81,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2022 - 15 October, 2022
+Week: 09 October, 2022 - 16 October, 2022
 
 JavaScript   19 hrs 43 mins  ██████████████████░░░░░░░   71.96 % 
 Python       5 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 % 
