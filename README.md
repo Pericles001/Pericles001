@@ -81,13 +81,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2022 - 20 October, 2022
+Week: 14 October, 2022 - 21 October, 2022
 
-JavaScript   25 hrs 1 min    ███████████████████▓░░░░░   78.53 % 
-Python       5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Bash         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript   25 hrs 35 mins  ███████████████████▓░░░░░   78.54 % 
+Python       5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Bash         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 
