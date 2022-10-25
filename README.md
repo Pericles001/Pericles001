@@ -81,7 +81,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2022 - 23 October, 2022
+Week: 17 October, 2022 - 24 October, 2022
 
 JavaScript   25 hrs 35 mins  ███████████████████████▒░   93.02 % 
 Bash         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
