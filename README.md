@@ -80,14 +80,16 @@
 ### Weekly focus
 
 <!--START_SECTION:waka-->
-```text
-Week: 17 October, 2022 - 24 October, 2022
 
-JavaScript   25 hrs 35 mins  ███████████████████████▒░   93.02 % 
-Bash         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-.env file    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+```text
+From: 06 May 2023 - To: 13 May 2023
+
+SQL             9 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.81 %
+JavaScript      3 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+Python          2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Log             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+XML             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
+
 <!--END_SECTION:waka-->
 
