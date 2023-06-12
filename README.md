@@ -82,9 +82,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-Markdown   1 min           █████████████████████████   100.00 %
+Other      8 mins          █████████████████████▓░░░   86.12 %
+Markdown   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
 ```
 
 <!--END_SECTION:waka-->
