@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
 C++          25 mins         ██████████████████░░░░░░░   72.24 %
 Other        8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
