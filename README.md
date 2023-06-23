@@ -82,10 +82,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2023 - To: 21 June 2023
+From: 15 June 2023 - To: 22 June 2023
 
-C++          7 mins          ████████████████████████▓   98.70 %
-ObjectiveC   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Python           4 mins          ████████████████████████▒   97.54 %
+C++              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
