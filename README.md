@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2023 - To: 09 July 2023
+From: 03 July 2023 - To: 10 July 2023
 
 Python           35 mins         ███████████▓░░░░░░░░░░░░░   46.90 %
 C++              29 mins         ██████████░░░░░░░░░░░░░░░   39.49 %
