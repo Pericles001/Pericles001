@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 July 2023 - To: 15 July 2023
+From: 09 July 2023 - To: 16 July 2023
 
-Python             1 hr 48 mins    ████████████▒░░░░░░░░░░░░   48.83 %
-C++                1 hr 37 mins    ███████████░░░░░░░░░░░░░░   43.48 %
-Markdown           12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-requirements.txt   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-GitIgnore file     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+C++                2 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   47.11 %
+Python             1 hr 48 mins    ██████████▒░░░░░░░░░░░░░░   41.96 %
+Markdown           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+requirements.txt   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Text               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
