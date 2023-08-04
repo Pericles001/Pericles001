@@ -82,11 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 July 2023 - To: 02 August 2023
+From: 27 July 2023 - To: 03 August 2023
 
-Python           10 mins         ██████████████████████▓░░   91.13 %
-Markdown         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Bash             11 mins         █████████▓░░░░░░░░░░░░░░░   38.79 %
+Python           11 mins         █████████░░░░░░░░░░░░░░░░   36.40 %
+Shell Script     6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
