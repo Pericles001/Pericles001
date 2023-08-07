@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
 Bash               8 hrs 28 mins   ████████████████████▓░░░░   82.93 %
 Shell Script       1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
