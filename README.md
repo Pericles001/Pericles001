@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
-Bash               10 hrs 10 mins  █████████████████▒░░░░░░░   68.94 %
-Shell Script       2 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-C++                1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-GitIgnore file     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-requirements.txt   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Bash               10 hrs 10 mins  █████████████▒░░░░░░░░░░░   52.75 %
+C++                5 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+Shell Script       2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+CMake              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+GitIgnore file     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
