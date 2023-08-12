@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-C++                11 hrs 34 mins  ███████████▒░░░░░░░░░░░░░   44.78 %
-Bash               9 hrs 58 mins   █████████▓░░░░░░░░░░░░░░░   38.60 %
-Shell Script       2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Markdown           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-CMake              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+C++                11 hrs 34 mins  ███████████░░░░░░░░░░░░░░   44.28 %
+Bash               6 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+Java               4 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Shell Script       1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Markdown           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
