@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
+<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
