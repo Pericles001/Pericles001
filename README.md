@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Pericles Adjovi
+<!--## Hi there 👋, my name is Pericles Adjovi-->
 
 
 ### Welcome to my github page
