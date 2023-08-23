@@ -2,7 +2,7 @@
 
 
 ### Welcome to my github page
-![Welcome to my github page ](images/github%20profile.gif)
+<!--![Welcome to my github page ](images/github%20profile.gif)-->
 
 
 
