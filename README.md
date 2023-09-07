@@ -82,13 +82,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Python         16 mins         ██████████████░░░░░░░░░░░   56.28 %
-ActionScript   11 mins         █████████▒░░░░░░░░░░░░░░░   37.25 %
-Ezhil          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Jupyter        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
