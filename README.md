@@ -82,9 +82,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Python   1 min           █████████████████████████   100.00 %
+GDScript      3 hrs 12 mins   ███████████████████████▓░   94.86 %
+Objective-C   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Jupyter       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
