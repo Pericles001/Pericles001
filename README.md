@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
 GDScript      3 hrs 12 mins   ███████████████████████▓░   94.86 %
 Objective-C   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
