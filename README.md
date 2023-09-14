@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-GDScript         3 hrs 12 mins   ███████████░░░░░░░░░░░░░░   44.59 %
-Assembly         1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Java             1 hr 51 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Objective-C      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Jupyter          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+GDScript         3 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.14 %
+Assembly         2 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+Java             1 hr 51 mins    ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Jupyter          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Objective-C      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
