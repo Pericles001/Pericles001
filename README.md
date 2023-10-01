@@ -82,11 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
-GDScript3   5 hrs 54 mins   ███████████████████████▒░   93.04 %
-Jupyter     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Zed         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+GDScript3   10 hrs 7 mins   ███████████████████████▓░   94.74 %
+Jupyter     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Zed         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 CSV/TSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
