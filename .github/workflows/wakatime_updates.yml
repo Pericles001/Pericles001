@@ -8,7 +8,7 @@
     # Your Wakatime API Key
     WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
     # Your Wakatime User ID
-    WAKATIME_USER_ID: @Pericles001
+    WAKATIME_USER_ID: "Pericles001"
     # Wakatime Time Range
     WAKATIME_TIME_RANGE: # optional, default is all_time
     # Table Style
