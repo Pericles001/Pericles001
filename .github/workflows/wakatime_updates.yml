@@ -1,4 +1,4 @@
-            - name: Wakatime Stats
+  name: Wakatime Stats
   # You may pin to the exact commit or the version.
   # uses: claserre9/wakatime-stats@cb4d5f9707b274de505e5601cdeca3157368a48d
   uses: claserre9/wakatime-stats@v1.1
