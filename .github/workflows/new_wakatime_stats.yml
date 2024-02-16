@@ -1,36 +1,28 @@
-# # This is a basic workflow to help you get started with Actions
+name: WakaTime status update
 
-# name: CI
+on:
+  schedule:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: "1 0 * * *"
 
-# # Controls when the workflow will run
-# on:
-#   # Triggers the workflow on push or pull request events but only for the "main" branch
-#   push:
-#     branches: [ "main" ]
-#   pull_request:
-#     branches: [ "main" ]
-
-#   # Allows you to run this workflow manually from the Actions tab
-#   workflow_dispatch:
-
-# # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-# jobs:
-#   # This workflow contains a single job called "build"
-#   build:
-#     # The type of runner that the job will run on
-#     runs-on: ubuntu-latest
-
-#     # Steps represent a sequence of tasks that will be executed as part of the job
-#     steps:
-#       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-#       - uses: actions/checkout@v3
-
-#       # Runs a single command using the runners shell
-#       - name: Run a one-line script
-#         run: echo Hello, world!
-
-#       # Runs a set of commands using the runners shell
-#       - name: Run a multi-line script
-#         run: |
-#           echo Add other actions to build,
-#           echo test, and deploy your project.
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
+      # Do not change the line below until you have forked this repository
+      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          # WakaTime API key stored in secrets, do not directly paste it here
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Automatic github token
+          # GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{secrets.WAKATIME_TOKEN}}
+          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
+          BRANCH: "main"
+          # Manual Commit messages - write your own messages here
+          COMMIT_MSG: "Automated Coding Activity Update"
+          # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
+          STATS_RANGE: "last_7_days"
