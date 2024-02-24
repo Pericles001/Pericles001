@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
