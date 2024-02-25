@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
+<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
