@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
+<i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
