@@ -79,16 +79,7 @@
 
 ### Weekly focus
 
-<!--START_SECTION:waka-->
 
-```text
-From: 24 September 2023 - To: 01 October 2023
-
-GDScript3   12 hrs 12 mins  ████████████████████████░   95.60 %
-Jupyter     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Zed         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-CSV/TSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-```
-
-<!--END_SECTION:waka-->
-
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+ 
