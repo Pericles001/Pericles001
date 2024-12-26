@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.❞</i>
+<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
