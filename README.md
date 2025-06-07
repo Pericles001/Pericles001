@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
+<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
