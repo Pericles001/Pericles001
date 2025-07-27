@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1960, the computer at NORAD warned with 99.9% certainty that the Soviets had just launched a full-scale missile attack against North America. NORAD later discovered that the Early Warning System in Greenland had interpreted the moon rising over Norway as a missile attack from Siberia.❞</i>
+<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
