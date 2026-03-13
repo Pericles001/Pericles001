@@ -15,6 +15,26 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/Pericles001/Pericles001/main/profile-summary-card-output/calm/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Pericles001/Pericles001/main/profile-summary-card-output/calm/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
