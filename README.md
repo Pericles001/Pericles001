@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
+<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
