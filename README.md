@@ -9,7 +9,7 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
